@@ -1,6 +1,6 @@
 Dataset from Kaggle: https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data
 
-Dataset directories- train: 'input/train/', test: 'input/test/'
+Dataset need to be saved to local directories- train: 'input/train/', test: 'input/test/'
 
 Development Environment: Jupyter Notebook, Python 3
 
