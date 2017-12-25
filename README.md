@@ -1,4 +1,9 @@
-Dataset from Kaggle:
-https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data
+Dataset from Kaggle: https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data
 
-目前所建立的预测模型在验证集上的Loss为~0.18，提交到Kaggle的Loss为0.22924。希望能够获得一些建议使得Loss值进一步降低。
+Dataset need to be saved to local directories- train: 'input/train/', test: 'input/test/'
+
+Development Environment: Jupyter Notebook, Python 3
+
+Libraries: tensorflow, cv2, os, pickle, numpy, tqdm, PIL, matplotlib, IPython, sklearn, pandas
+
+Run time: 125 s/epoch, total 12500 s = 3.5 h
